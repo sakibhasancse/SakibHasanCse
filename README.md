@@ -42,4 +42,4 @@
 <a href="sakibhasan9641@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sakibhasan9640@-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/SakibHasanCse)
+⭐️ From [SakibHasanCse](https://github.com/SakibHasanCse)
