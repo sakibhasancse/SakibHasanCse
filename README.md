@@ -1,7 +1,12 @@
+### Hello World
+#### I'm Sakib Hasan, I try to write code 💻 and solve problems .
 
-![profile-image](https://i.ibb.co/6Z8WqXd/Screenshot-153.png)
+![age](https://img.shields.io/badge/age-21-blue)
+![focus](https://img.shields.io/badge/focus-backend-brightgreen)
+![living](https://img.shields.io/badge/living-Bangladesh-3c9)
+![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=SakibHasanCse.github.profile)
 
-#### Hi there 👋 I'm Sakib Hasan, I try to write code 💻 and solve problems .
+<br />
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
