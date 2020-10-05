@@ -5,9 +5,7 @@
 ![focus](https://img.shields.io/badge/focus-backend-brightgreen)
 ![living](https://img.shields.io/badge/living-Bangladesh-3c9)
 ![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=SakibHasanCse.github.profile)
-
 <br />
-
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -45,9 +43,9 @@
 
 <p align="center">
 <a href="https://www.sakibcsc.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sakibcsc.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/sakib-hasan-780001195/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-SakibHasanNaim-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/SakibHasanCse/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-SakibHasan__-blue?style=flat-square&logo=instagram"></a>
-<a href="sakibhasan9641@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sakibhasan9640@-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/sakib-hasan-780001195/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-SakibHasanCsc-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/SakibHasanCse/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-SakibHasanCsc-blue?style=flat-square&logo=instagram"></a>
+<a href="sakibhasan9641@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sakibhasan9641@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [SakibHasanCse](https://github.com/SakibHasanCse)
