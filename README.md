@@ -26,9 +26,9 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+<a href="https://github.com/SakibHasanCse">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SakibHasanCse&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakibHasanCse&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -39,7 +39,7 @@
 <a href="https://www.sakibcsc.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.sakibcsc.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/sakib-hasan-780001195/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-SakibHasanNaim-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/SakibHasanCse/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-SakibHasan__-blue?style=flat-square&logo=instagram"></a>
-<a href="sakibhasan9641@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sakibhasan@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="sakibhasan9641@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sakibhasan9640@-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/SakibHasanCse)
