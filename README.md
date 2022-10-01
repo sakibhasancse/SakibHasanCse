@@ -32,10 +32,3 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
 [![vsCode](https://img.shields.io/badge/vsCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)]()
-
----
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=sakibhasancse&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibhasancse&theme=react&layout=compact" />
-</p>
-
