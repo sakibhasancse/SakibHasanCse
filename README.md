@@ -5,7 +5,7 @@
 
 - 🌱 Currently working as Software Engineer
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/sakibhasancse/)
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Connect to Know More!
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakibhasancse)
@@ -15,10 +15,8 @@
 
 <br>
 
-###💻 Tech Stack
-
+### 💻 Tech Stack
 ---
-
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
@@ -32,3 +30,6 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
 [![vsCode](https://img.shields.io/badge/vsCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)]()
+
+--- 
+<img src="https://komarev.com/ghpvc/?username=SakibHasanCse&label=Profile%20views&color=0047AB&style=plastic?" alt="SakibHasanCse" height=20px, width=160px/> 
