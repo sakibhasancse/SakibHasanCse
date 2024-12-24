@@ -32,4 +32,4 @@
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)]()
 
 --- 
-<img src="https://komarev.com/ghpvc/?username=SakibHasanCse&label=Profile%20views&color=0047AB&style=plastic?" alt="SakibHasanCse" height=20px, width=160px/> 
+<img src="https://komarev.com/ghpvc/?username=SakibHasanCse&label=Profile%20views&color=brightgreen&style=for-the-badge&abbreviated=true" alt="SakibHasanCse"/> 
